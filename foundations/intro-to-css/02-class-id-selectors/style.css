@@ -1,0 +1,19 @@
+.oddtitle {
+    background-color: #da151570;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#secondtitle {
+    color: blue;
+    font-size: 36px;
+}
+
+.thirdtitle {
+    font-size: 24px;
+}
+
+#fourthtitle {
+    background-color: #59ec59;
+    font-size: 24px;
+    font-weight: bold;
+}
